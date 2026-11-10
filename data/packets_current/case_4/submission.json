@@ -1,0 +1,23 @@
+{
+  "company_name": "APRIA HEALTHCARE LLC",
+  "dba_name": null,
+  "country": "US",
+  "physical_address": "7353 COMPANY DR",
+  "city": "INDIANAPOLIS",
+  "state": "IN",
+  "zip_code": "46237",
+  "npi_number": "1538273651",
+  "tin_ein": "35-1234567",
+  "vendor_category": "Clinical Laboratory",
+  "tax_classification": "C Corporation",
+  "claimed_taxonomy_code": "291U00000X",
+  "requested_complexity": "High-Complexity Lab",
+  "bank_routing_number": "021000021",
+  "bank_account_number": "6800042391",
+  "contact_email": "credentialing4@mail.invalid",
+  "authorized_official": "PERRY BERNOCCHI",
+  "owners_5_percent": [
+    "MORGAN VALE"
+  ],
+  "prior_sanctions_disclosed": false
+}

@@ -1,0 +1,23 @@
+{
+  "company_name": "ALLIED CLINICAL LABORATORY INC",
+  "dba_name": null,
+  "country": "US",
+  "physical_address": "1329 W WALNUT HILL LN #117",
+  "city": "IRVING",
+  "state": "TX",
+  "zip_code": "75038",
+  "npi_number": "1548154826",
+  "tin_ein": "74-3256789",
+  "vendor_category": "Clinical Laboratory",
+  "tax_classification": "C Corporation",
+  "claimed_taxonomy_code": "291U00000X",
+  "requested_complexity": "High-Complexity Lab",
+  "bank_routing_number": "021000021",
+  "bank_account_number": "6800032391",
+  "contact_email": "credentialing3@mail.invalid",
+  "authorized_official": "GAYANE NIKOGHOSYAN",
+  "owners_5_percent": [
+    "JACOB LEE"
+  ],
+  "prior_sanctions_disclosed": false
+}

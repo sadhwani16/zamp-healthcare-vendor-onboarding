@@ -1,0 +1,371 @@
+{
+  "1780620526": {
+    "source": "CMS NPPES API",
+    "fetched_at": "2026-11-10T14:56:50.507542+00:00",
+    "response": {
+      "result_count": 1,
+      "results": [
+        {
+          "addresses": [
+            {
+              "address_1": "4770 REGENT BLVD",
+              "address_purpose": "MAILING",
+              "address_type": "DOM",
+              "city": "IRVING",
+              "country_code": "US",
+              "country_name": "United States",
+              "postal_code": "750632445",
+              "state": "TX",
+              "telephone_number": "866-697-8378"
+            },
+            {
+              "address_1": "33608 ORTEGA HWY",
+              "address_purpose": "LOCATION",
+              "address_type": "DOM",
+              "city": "SAN JUAN CAPISTRANO",
+              "country_code": "US",
+              "country_name": "United States",
+              "postal_code": "926752042",
+              "state": "CA",
+              "telephone_number": "800-642-4657"
+            }
+          ],
+          "basic": {
+            "authorized_official_first_name": "LEAH",
+            "authorized_official_last_name": "TIMMERMAN",
+            "authorized_official_middle_name": "D",
+            "authorized_official_telephone_number": "9735202700",
+            "authorized_official_title_or_position": "SVP, Health Plans",
+            "certification_date": "2026-09-07",
+            "enumeration_date": "2006-06-21",
+            "last_updated": "2026-09-07",
+            "organization_name": "QUEST DIAGNOSTICS NICHOLS INSTITUTE",
+            "organizational_subpart": "YES",
+            "parent_organization_legal_business_name": "QUEST DIAGNOSTICS INCORPORATED",
+            "status": "A"
+          },
+          "created_epoch": "1150897465000",
+          "endpoints": [],
+          "enumeration_type": "NPI-2",
+          "identifiers": [],
+          "last_updated_epoch": "1788808172000",
+          "number": "1780620526",
+          "other_names": [],
+          "practiceLocations": [],
+          "taxonomies": [
+            {
+              "code": "291U00000X",
+              "desc": "Clinical Medical Laboratory",
+              "license": "05D0643352",
+              "primary": true,
+              "state": "CA",
+              "taxonomy_group": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "1134277494": {
+    "source": "CMS NPPES API",
+    "fetched_at": "2026-11-10T14:18:22.256259+00:00",
+    "response": {
+      "result_count": 1,
+      "results": [
+        {
+          "addresses": [
+            {
+              "address_1": "481 EDWARD H ROSS DR",
+              "address_purpose": "LOCATION",
+              "address_type": "DOM",
+              "city": "ELMWOOD PARK",
+              "country_code": "US",
+              "country_name": "United States",
+              "fax_number": "201-791-1941",
+              "postal_code": "074073118",
+              "state": "NJ",
+              "telephone_number": "201-791-2600"
+            },
+            {
+              "address_1": "481 EDWARD H ROSS DR",
+              "address_purpose": "MAILING",
+              "address_type": "DOM",
+              "city": "ELMWOOD PARK",
+              "country_code": "US",
+              "country_name": "United States",
+              "fax_number": "201-791-1941",
+              "postal_code": "074073118",
+              "state": "NJ",
+              "telephone_number": "201-791-2600"
+            }
+          ],
+          "basic": {
+            "authorized_official_first_name": "MICHAEL",
+            "authorized_official_last_name": "SCHMID",
+            "authorized_official_telephone_number": "2017912600",
+            "authorized_official_title_or_position": "SVP, Chief Financial Officer",
+            "certification_date": "2024-03-26",
+            "enumeration_date": "2007-01-05",
+            "last_updated": "2024-03-26",
+            "organization_name": "BIOREFERENCE HEALTH, LLC",
+            "organizational_subpart": "NO",
+            "status": "A"
+          },
+          "created_epoch": "1168032217000",
+          "endpoints": [],
+          "enumeration_type": "NPI-2",
+          "identifiers": [],
+          "last_updated_epoch": "1711468046000",
+          "number": "1134277494",
+          "other_names": [
+            {
+              "code": "4",
+              "organization_name": "BIO-REFERENCE LABORATORIES, INC.",
+              "type": "Former Legal Business Name"
+            }
+          ],
+          "practiceLocations": [],
+          "taxonomies": [
+            {
+              "code": "291U00000X",
+              "desc": "Clinical Medical Laboratory",
+              "license": "0000283",
+              "primary": true,
+              "state": "NJ",
+              "taxonomy_group": ""
+            },
+            {
+              "code": "291U00000X",
+              "desc": "Clinical Medical Laboratory",
+              "license": null,
+              "primary": false,
+              "state": null,
+              "taxonomy_group": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "1548154826": {
+    "source": "CMS NPPES API",
+    "fetched_at": "2026-11-05T12:07:04.452972+00:00",
+    "response": {
+      "result_count": 1,
+      "results": [
+        {
+          "addresses": [
+            {
+              "address_1": "1329 W WALNUT HILL LN # 117",
+              "address_purpose": "LOCATION",
+              "address_type": "DOM",
+              "city": "IRVING",
+              "country_code": "US",
+              "country_name": "United States",
+              "postal_code": "750383270",
+              "state": "TX",
+              "telephone_number": "682-367-2214"
+            },
+            {
+              "address_1": "1329 W WALNUT HILL LN # 117",
+              "address_purpose": "MAILING",
+              "address_type": "DOM",
+              "city": "IRVING",
+              "country_code": "US",
+              "country_name": "United States",
+              "postal_code": "750383270",
+              "state": "TX"
+            }
+          ],
+          "basic": {
+            "authorized_official_first_name": "GAYANE",
+            "authorized_official_last_name": "NIKOGHOSYAN",
+            "authorized_official_telephone_number": "8183006866",
+            "authorized_official_title_or_position": "PRESIDENT",
+            "certification_date": "2025-06-03",
+            "enumeration_date": "2025-06-03",
+            "last_updated": "2025-06-03",
+            "organization_name": "ALLIED CLINICAL LABORATORY INC",
+            "organizational_subpart": "NO",
+            "status": "A"
+          },
+          "created_epoch": "1748984704000",
+          "endpoints": [],
+          "enumeration_type": "NPI-2",
+          "identifiers": [],
+          "last_updated_epoch": "1748984704000",
+          "number": "1548154826",
+          "other_names": [],
+          "practiceLocations": [],
+          "taxonomies": [
+            {
+              "code": "291U00000X",
+              "desc": "Clinical Medical Laboratory",
+              "license": null,
+              "primary": true,
+              "state": null,
+              "taxonomy_group": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "1538273651": {
+    "source": "CMS NPPES API",
+    "source_url": "https://npiregistry.cms.hhs.gov/api/?number=1538273651&version=2.1",
+    "fetched_at": "2026-11-04T22:32:18.898469+00:00",
+    "response": {
+      "result_count": 1,
+      "results": [
+        {
+          "addresses": [
+            {
+              "address_1": "7353 COMPANY DR",
+              "address_purpose": "LOCATION",
+              "address_type": "DOM",
+              "city": "INDIANAPOLIS",
+              "country_code": "US",
+              "country_name": "United States",
+              "fax_number": "317-865-4359",
+              "postal_code": "462379274",
+              "state": "IN",
+              "telephone_number": "317-865-4200"
+            },
+            {
+              "address_1": "7353 COMPANY DR",
+              "address_purpose": "MAILING",
+              "address_type": "DOM",
+              "city": "INDIANAPOLIS",
+              "country_code": "US",
+              "country_name": "United States",
+              "postal_code": "462379274",
+              "state": "IN",
+              "telephone_number": "317-865-4200"
+            }
+          ],
+          "basic": {
+            "authorized_official_first_name": "PERRY",
+            "authorized_official_last_name": "BERNOCCHI",
+            "authorized_official_name_prefix": "--",
+            "authorized_official_name_suffix": "--",
+            "authorized_official_telephone_number": "3178654200",
+            "authorized_official_title_or_position": "CEO",
+            "certification_date": "2024-04-19",
+            "enumeration_date": "2006-08-18",
+            "last_updated": "2024-04-19",
+            "organization_name": "APRIA HEALTHCARE LLC",
+            "organizational_subpart": "YES",
+            "parent_organization_legal_business_name": "APRIA HEALTHCARE GROUP LLC",
+            "status": "A"
+          },
+          "created_epoch": "1155885730000",
+          "endpoints": [],
+          "enumeration_type": "NPI-2",
+          "identifiers": [],
+          "last_updated_epoch": "1713552712000",
+          "number": "1538273651",
+          "other_names": [],
+          "practiceLocations": [],
+          "taxonomies": [
+            {
+              "code": "332B00000X",
+              "desc": "Durable Medical Equipment & Medical Supplies",
+              "license": null,
+              "primary": true,
+              "state": null,
+              "taxonomy_group": ""
+            },
+            {
+              "code": "332BP3500X",
+              "desc": "Durable Medical Equipment & Medical Supplies, Parenteral & Enteral Nutrition",
+              "license": null,
+              "primary": false,
+              "state": null,
+              "taxonomy_group": ""
+            },
+            {
+              "code": "332BX2000X",
+              "desc": "Durable Medical Equipment & Medical Supplies, Oxygen Equipment & Supplies",
+              "license": null,
+              "primary": false,
+              "state": null,
+              "taxonomy_group": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "1376587113": {
+    "source": "CMS NPPES API",
+    "source_url": "https://npiregistry.cms.hhs.gov/api/?number=1376587113&version=2.1",
+    "fetched_at": "2026-11-04T22:32:18.898469+00:00",
+    "response": {
+      "result_count": 1,
+      "results": [
+        {
+          "addresses": [
+            {
+              "address_1": "250 MILLER PL",
+              "address_purpose": "MAILING",
+              "address_type": "DOM",
+              "city": "HICKSVILLE",
+              "country_code": "US",
+              "country_name": "United States",
+              "fax_number": "631-435-1552",
+              "postal_code": "118011826",
+              "state": "NY",
+              "telephone_number": "631-435-1515"
+            },
+            {
+              "address_1": "250 MILLER PL",
+              "address_purpose": "LOCATION",
+              "address_type": "DOM",
+              "city": "HICKSVILLE",
+              "country_code": "US",
+              "country_name": "United States",
+              "fax_number": "631-435-1552",
+              "postal_code": "118011826",
+              "state": "NY",
+              "telephone_number": "631-435-1515"
+            }
+          ],
+          "basic": {
+            "authorized_official_credential": "CPA",
+            "authorized_official_first_name": "ALAN",
+            "authorized_official_last_name": "GREENBERG",
+            "authorized_official_middle_name": "MARC",
+            "authorized_official_name_prefix": "Mr.",
+            "authorized_official_name_suffix": "--",
+            "authorized_official_telephone_number": "6314351515",
+            "authorized_official_title_or_position": "President",
+            "enumeration_date": "2006-06-15",
+            "last_updated": "2013-04-17",
+            "organization_name": "SUNRISE MEDICAL LABORATORIES, INC.",
+            "organizational_subpart": "NO",
+            "status": "A"
+          },
+          "created_epoch": "1150360597000",
+          "endpoints": [],
+          "enumeration_type": "NPI-2",
+          "identifiers": [],
+          "last_updated_epoch": "1366231885000",
+          "number": "1376587113",
+          "other_names": [],
+          "practiceLocations": [],
+          "taxonomies": [
+            {
+              "code": "291U00000X",
+              "desc": "Clinical Medical Laboratory",
+              "license": "PFI 2130",
+              "primary": true,
+              "state": "NY",
+              "taxonomy_group": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "company_name": "QUEST DIAGNOSTICS INCORPORATED",
+  "dba_name": "QUEST DIAGNOSTICS NICHOLS INSTITUTE",
+  "country": "US",
+  "physical_address": "33608 ORTEGA HWY",
+  "city": "SAN JUAN CAPISTRANO",
+  "state": "CA",
+  "zip_code": "92675",
+  "npi_number": "1780620526",
+  "tin_ein": "16-1387862",
+  "vendor_category": "Clinical Laboratory",
+  "tax_classification": "C Corporation",
+  "claimed_taxonomy_code": "291U00000X",
+  "requested_complexity": "High-Complexity Lab",
+  "bank_routing_number": "021000021",
+  "bank_account_number": "6800012391",
+  "contact_email": "credentialing1@mail.invalid",
+  "authorized_official": "LEAH TIMMERMAN",
+  "owners_5_percent": [
+    "MORGAN VALE"
+  ],
+  "prior_sanctions_disclosed": false
+}

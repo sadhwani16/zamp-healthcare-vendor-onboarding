@@ -1,0 +1,23 @@
+{
+  "company_name": "SUNRISE MEDICAL LABORATORIES, INC.",
+  "dba_name": null,
+  "country": "US",
+  "physical_address": "250 MILLER PLACE",
+  "city": "HICKSVILLE",
+  "state": "NY",
+  "zip_code": "11801",
+  "npi_number": "1376587113",
+  "tin_ein": "74-4123456",
+  "vendor_category": "Clinical Laboratory",
+  "tax_classification": "C Corporation",
+  "claimed_taxonomy_code": "291U00000X",
+  "requested_complexity": "High-Complexity Lab",
+  "bank_routing_number": "021000021",
+  "bank_account_number": "6800052391",
+  "contact_email": "credentialing5@mail.invalid",
+  "authorized_official": "ALAN GREENBERG",
+  "owners_5_percent": [
+    "MORGAN VALE"
+  ],
+  "prior_sanctions_disclosed": false
+}
